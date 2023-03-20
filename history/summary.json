@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 272,
-    "timeDay": 200,
-    "timeWeek": 273,
-    "timeMonth": 262,
-    "timeYear": 272,
+    "time": 278,
+    "timeDay": 506,
+    "timeWeek": 276,
+    "timeMonth": 272,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2023-02-18": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 122,
-    "timeDay": 98,
-    "timeWeek": 120,
-    "timeMonth": 119,
-    "timeYear": 122,
+    "time": 124,
+    "timeDay": 201,
+    "timeWeek": 122,
+    "timeMonth": 123,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2023-02-18": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 143,
-    "timeDay": 109,
-    "timeWeek": 133,
-    "timeMonth": 138,
-    "timeYear": 143,
+    "time": 146,
+    "timeDay": 277,
+    "timeWeek": 140,
+    "timeMonth": 142,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2023-02-18": 23
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 138,
-    "timeDay": 101,
-    "timeWeek": 125,
-    "timeMonth": 142,
-    "timeYear": 138,
+    "time": 140,
+    "timeDay": 226,
+    "timeWeek": 132,
+    "timeMonth": 146,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-02-18": 22
     }
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.unforest.net.ico",
     "slug": "libreddit",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.43%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "99.21%",
-    "time": 659,
-    "timeDay": 885,
-    "timeWeek": 742,
-    "timeMonth": 713,
-    "timeYear": 659,
+    "uptimeYear": "99.23%",
+    "time": 663,
+    "timeDay": 849,
+    "timeWeek": 741,
+    "timeMonth": 707,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2023-03-15": 67,
       "2023-03-14": 293,
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 100,
-    "timeWeek": 104,
-    "timeMonth": 106,
-    "timeYear": 111,
+    "time": 114,
+    "timeDay": 212,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 76,
-    "timeWeek": 117,
-    "timeMonth": 112,
-    "timeYear": 115,
+    "time": 117,
+    "timeDay": 192,
+    "timeWeek": 121,
+    "timeMonth": 116,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
