@@ -4,10 +4,10 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 276,
@@ -16,6 +16,7 @@
     "timeMonth": 273,
     "timeYear": 276,
     "dailyMinutesDown": {
+      "2023-03-23": 1,
       "2023-02-18": 24
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://piped.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/piped.unforest.net.ico",
     "slug": "piped",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 124,
@@ -36,6 +37,7 @@
     "timeMonth": 124,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2023-03-23": 1,
       "2023-02-18": 23
     }
   },
@@ -44,19 +46,19 @@
     "url": "https://pipedapi.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 144,
     "timeDay": 144,
     "timeWeek": 137,
     "timeMonth": 142,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-03-23": 6,
+      "2023-03-23": 0,
       "2023-02-18": 23
     }
   },
