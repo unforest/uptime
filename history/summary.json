@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 275,
     "timeDay": 268,
     "timeWeek": 283,
     "timeMonth": 274,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2023-03-23": 6,
       "2023-02-18": 24
     }
   },
@@ -66,18 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.unforest.net.ico",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 141,
     "timeDay": 152,
     "timeWeek": 146,
     "timeMonth": 150,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-03-23": 6,
       "2023-02-18": 22
     }
   },
@@ -110,19 +108,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unforest.net.ico",
     "slug": "nitter",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 93,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 113,
-    "dailyMinutesDown": {
-      "2023-03-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rimgo",
@@ -130,18 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.unforest.net.ico",
     "slug": "rimgo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 104,
     "timeWeek": 125,
     "timeMonth": 119,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2023-03-23": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
