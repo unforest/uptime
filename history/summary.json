@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 275,
-    "timeDay": 532,
-    "timeWeek": 274,
-    "timeMonth": 265,
-    "timeYear": 275,
+    "time": 273,
+    "timeDay": 182,
+    "timeWeek": 270,
+    "timeMonth": 264,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2023-02-18": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 124,
-    "timeDay": 184,
-    "timeWeek": 130,
-    "timeMonth": 118,
-    "timeYear": 124,
+    "time": 123,
+    "timeDay": 107,
+    "timeWeek": 129,
+    "timeMonth": 119,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2023-02-18": 23
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 249,
-    "timeDay": 281,
-    "timeWeek": 152,
+    "time": 246,
+    "timeDay": 84,
+    "timeWeek": 149,
     "timeMonth": 298,
-    "timeYear": 249,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2023-03-24": 19,
       "2023-02-18": 23
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 139,
-    "timeDay": 258,
+    "time": 138,
+    "timeDay": 77,
     "timeWeek": 136,
-    "timeMonth": 145,
-    "timeYear": 139,
+    "timeMonth": 144,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2023-02-18": 22
     }
@@ -86,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.unforest.net.ico",
     "slug": "libreddit",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 692,
-    "timeDay": 1164,
-    "timeWeek": 875,
-    "timeMonth": 764,
+    "timeDay": 720,
+    "timeWeek": 861,
+    "timeMonth": 782,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2023-03-15": 67,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 249,
-    "timeWeek": 118,
-    "timeMonth": 106,
+    "timeDay": 73,
+    "timeWeek": 119,
+    "timeMonth": 105,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -132,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 250,
-    "timeWeek": 130,
-    "timeMonth": 119,
-    "timeYear": 120,
+    "time": 119,
+    "timeDay": 49,
+    "timeWeek": 123,
+    "timeMonth": 118,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   }
 ]
