@@ -1,7 +1,7 @@
 url: https://searxng.unforest.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-13T23:09:39.989Z
+status: up
+code: 200
+responseTime: 72
+lastUpdated: 2023-10-14T04:55:27.188Z
 startTime: 2023-02-09T00:23:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
