@@ -4,12 +4,12 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "51.96%",
-    "uptimeWeek": "63.77%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "51.95%",
+    "uptimeWeek": "63.93%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "99.04%",
     "time": 275,
     "timeDay": 185,
     "timeWeek": 201,
@@ -22,7 +22,7 @@
       "2023-10-25": 551,
       "2023-10-24": 700,
       "2023-10-23": 676,
-      "2023-10-22": 39
+      "2023-10-22": 22
     }
   },
   {
@@ -30,15 +30,15 @@
     "url": "https://piped.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/piped.unforest.net.ico",
     "slug": "piped",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "67.61%",
-    "uptimeWeek": "66.26%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.10%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "68.01%",
+    "uptimeWeek": "66.73%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "99.11%",
     "time": 216,
     "timeDay": 258,
-    "timeWeek": 195,
+    "timeWeek": 196,
     "timeMonth": 229,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2023-10-25": 476,
       "2023-10-24": 704,
       "2023-10-23": 697,
-      "2023-10-22": 83
+      "2023-10-22": 35
     }
   },
   {
@@ -83,9 +83,9 @@
     "slug": "sear-xng",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "52.29%",
-    "uptimeWeek": "66.51%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "51.88%",
+    "uptimeWeek": "66.45%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.10%",
     "time": 182,
     "timeDay": 201,
@@ -93,7 +93,7 @@
     "timeMonth": 187,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-10-28": 471,
+      "2023-10-28": 477,
       "2023-10-27": 599,
       "2023-10-26": 712,
       "2023-10-25": 500,
@@ -107,12 +107,12 @@
     "url": "https://libreddit.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.unforest.net.ico",
     "slug": "libreddit",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "65.01%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "64.99%",
+    "uptimeWeek": "67.37%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "99.13%",
     "time": 279,
     "timeDay": 193,
     "timeWeek": 187,
@@ -125,7 +125,7 @@
       "2023-10-25": 510,
       "2023-10-24": 660,
       "2023-10-23": 488,
-      "2023-10-22": 112
+      "2023-10-22": 83
     }
   },
   {
@@ -135,9 +135,9 @@
     "slug": "nitter",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "55.43%",
-    "uptimeWeek": "61.76%",
-    "uptimeMonth": "91.20%",
+    "uptimeDay": "56.26%",
+    "uptimeWeek": "61.71%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "98.98%",
     "time": 195,
     "timeDay": 184,
@@ -145,12 +145,13 @@
     "timeMonth": 208,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-28": 492,
+      "2023-10-28": 480,
       "2023-10-27": 592,
       "2023-10-26": 576,
       "2023-10-25": 712,
       "2023-10-24": 841,
-      "2023-10-23": 645
+      "2023-10-23": 645,
+      "2023-10-22": 18
     }
   },
   {
@@ -161,8 +162,8 @@
     "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "66.73%",
-    "uptimeWeek": "68.55%",
-    "uptimeMonth": "92.76%",
+    "uptimeWeek": "68.49%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "99.16%",
     "time": 195,
     "timeDay": 165,
@@ -170,7 +171,7 @@
     "timeMonth": 206,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-28": 332,
+      "2023-10-28": 338,
       "2023-10-27": 660,
       "2023-10-26": 491,
       "2023-10-25": 591,
