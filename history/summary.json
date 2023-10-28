@@ -4,12 +4,12 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "52.31%",
-    "uptimeWeek": "64.02%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "53.35%",
+    "uptimeWeek": "64.40%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "99.05%",
     "time": 276,
     "timeDay": 203,
     "timeWeek": 199,
@@ -22,7 +22,7 @@
       "2023-10-25": 551,
       "2023-10-24": 700,
       "2023-10-23": 676,
-      "2023-10-22": 291
+      "2023-10-22": 252
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "https://piped.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/piped.unforest.net.ico",
     "slug": "piped",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "67.14%",
-    "uptimeWeek": "67.06%",
-    "uptimeMonth": "92.42%",
+    "uptimeDay": "68.18%",
+    "uptimeWeek": "67.29%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.12%",
     "time": 214,
     "timeDay": 208,
@@ -48,7 +48,7 @@
       "2023-10-25": 476,
       "2023-10-24": 704,
       "2023-10-23": 697,
-      "2023-10-22": 287
+      "2023-10-22": 263
     }
   },
   {
@@ -56,11 +56,11 @@
     "url": "https://pipedapi.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "57.73%",
-    "uptimeWeek": "66.77%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "57.72%",
+    "uptimeWeek": "66.95%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "99.11%",
     "time": 212,
     "timeDay": 194,
@@ -74,7 +74,7 @@
       "2023-10-25": 655,
       "2023-10-24": 648,
       "2023-10-23": 610,
-      "2023-10-22": 93
+      "2023-10-22": 75
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "48.02%",
-    "uptimeWeek": "67.65%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "48.84%",
+    "uptimeWeek": "67.50%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.13%",
     "time": 181,
     "timeDay": 198,
@@ -94,13 +94,13 @@
     "timeMonth": 187,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-10-28": 272,
+      "2023-10-28": 260,
       "2023-10-27": 599,
       "2023-10-26": 712,
       "2023-10-25": 500,
       "2023-10-24": 620,
       "2023-10-23": 431,
-      "2023-10-22": 125
+      "2023-10-22": 152
     }
   },
   {
@@ -110,9 +110,9 @@
     "slug": "libreddit",
     "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "62.38%",
-    "uptimeWeek": "67.61%",
-    "uptimeMonth": "92.55%",
+    "uptimeDay": "61.20%",
+    "uptimeWeek": "67.44%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.13%",
     "time": 281,
     "timeDay": 175,
@@ -120,7 +120,7 @@
     "timeMonth": 186,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-10-28": 137,
+      "2023-10-28": 154,
       "2023-10-27": 545,
       "2023-10-26": 658,
       "2023-10-25": 510,
@@ -135,24 +135,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unforest.net.ico",
     "slug": "nitter",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "54.91%",
-    "uptimeWeek": "62.09%",
-    "uptimeMonth": "91.28%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.97%",
+    "uptimeDay": "56.50%",
+    "uptimeWeek": "61.62%",
+    "uptimeMonth": "91.17%",
+    "uptimeYear": "98.97%",
     "time": 195,
     "timeDay": 196,
     "timeWeek": 205,
     "timeMonth": 207,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-28": 240,
+      "2023-10-28": 234,
       "2023-10-27": 592,
       "2023-10-26": 576,
       "2023-10-25": 712,
       "2023-10-24": 841,
       "2023-10-23": 645,
-      "2023-10-22": 218
+      "2023-10-22": 272
     }
   },
   {
@@ -162,12 +162,12 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "55.74%",
+    "uptimeDay": "55.86%",
     "uptimeWeek": "67.88%",
     "uptimeMonth": "92.61%",
     "uptimeYear": "99.14%",
     "time": 196,
-    "timeDay": 168,
+    "timeDay": 163,
     "timeWeek": 176,
     "timeMonth": 208,
     "timeYear": 196,
