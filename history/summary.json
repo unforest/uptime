@@ -32,9 +32,9 @@
     "slug": "piped",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "56.31%",
-    "uptimeWeek": "66.22%",
-    "uptimeMonth": "92.23%",
+    "uptimeDay": "57.12%",
+    "uptimeWeek": "66.16%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.10%",
     "time": 224,
     "timeDay": 381,
@@ -42,13 +42,13 @@
     "timeMonth": 237,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-10-30": 484,
+      "2023-10-30": 472,
       "2023-10-29": 596,
       "2023-10-28": 506,
       "2023-10-27": 512,
       "2023-10-26": 591,
       "2023-10-25": 476,
-      "2023-10-24": 243
+      "2023-10-24": 261
     }
   },
   {
@@ -59,8 +59,8 @@
     "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "55.43%",
-    "uptimeWeek": "66.52%",
-    "uptimeMonth": "92.29%",
+    "uptimeWeek": "66.46%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.11%",
     "time": 210,
     "timeDay": 168,
@@ -68,7 +68,7 @@
     "timeMonth": 205,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-10-30": 520,
+      "2023-10-30": 526,
       "2023-10-29": 631,
       "2023-10-28": 667,
       "2023-10-27": 517,
@@ -81,11 +81,11 @@
     "url": "https://searxng.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.unforest.net.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "55.06%",
-    "uptimeWeek": "63.28%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "55.04%",
+    "uptimeWeek": "63.45%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.03%",
     "time": 185,
     "timeDay": 201,
@@ -99,7 +99,7 @@
       "2023-10-27": 599,
       "2023-10-26": 712,
       "2023-10-25": 500,
-      "2023-10-24": 114
+      "2023-10-24": 96
     }
   },
   {
@@ -135,23 +135,23 @@
     "slug": "nitter",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "55.03%",
-    "uptimeWeek": "64.36%",
-    "uptimeMonth": "91.80%",
+    "uptimeDay": "55.44%",
+    "uptimeWeek": "64.12%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.05%",
     "time": 195,
-    "timeDay": 188,
+    "timeDay": 187,
     "timeWeek": 189,
     "timeMonth": 206,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-30": 483,
+      "2023-10-30": 477,
       "2023-10-29": 597,
       "2023-10-28": 562,
       "2023-10-27": 592,
       "2023-10-26": 576,
       "2023-10-25": 712,
-      "2023-10-24": 78
+      "2023-10-24": 108
     }
   },
   {
