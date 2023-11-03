@@ -56,12 +56,12 @@
     "url": "https://pipedapi.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "49.92%",
-    "uptimeWeek": "64.94%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "49.90%",
+    "uptimeWeek": "65.45%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "99.10%",
     "time": 218,
     "timeDay": 216,
     "timeWeek": 231,
@@ -73,7 +73,7 @@
       "2023-11-01": 598,
       "2023-10-31": 681,
       "2023-10-30": 686,
-      "2023-10-29": 292
+      "2023-10-29": 240
     }
   },
   {
@@ -83,9 +83,9 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "47.61%",
-    "uptimeWeek": "67.59%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "48.19%",
+    "uptimeWeek": "67.45%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.15%",
     "time": 196,
     "timeDay": 212,
@@ -93,12 +93,12 @@
     "timeMonth": 202,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-11-03": 664,
+      "2023-11-03": 656,
       "2023-11-02": 639,
       "2023-11-01": 398,
       "2023-10-31": 608,
       "2023-10-30": 626,
-      "2023-10-29": 330
+      "2023-10-29": 353
     }
   },
   {
@@ -158,11 +158,11 @@
     "url": "https://rimgo.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.unforest.net.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "55.27%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "91.77%",
+    "uptimeDay": "55.23%",
+    "uptimeWeek": "64.46%",
+    "uptimeMonth": "91.82%",
     "uptimeYear": "99.07%",
     "time": 193,
     "timeDay": 209,
@@ -170,13 +170,12 @@
     "timeMonth": 200,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-11-03": 583,
+      "2023-11-03": 584,
       "2023-11-02": 576,
       "2023-11-01": 674,
       "2023-10-31": 636,
       "2023-10-30": 527,
-      "2023-10-29": 588,
-      "2023-10-28": 24
+      "2023-10-29": 588
     }
   }
 ]
