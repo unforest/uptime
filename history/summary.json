@@ -6,9 +6,9 @@
     "slug": "unforest",
     "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "57.17%",
-    "uptimeWeek": "59.28%",
-    "uptimeMonth": "90.63%",
+    "uptimeDay": "56.73%",
+    "uptimeWeek": "59.21%",
+    "uptimeMonth": "90.61%",
     "uptimeYear": "98.93%",
     "time": 276,
     "timeDay": 558,
@@ -16,7 +16,7 @@
     "timeMonth": 272,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2023-11-03": 111,
+      "2023-11-03": 117,
       "2023-11-02": 642,
       "2023-11-01": 594,
       "2023-10-31": 633,
@@ -33,7 +33,7 @@
     "slug": "piped",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "60.62%",
+    "uptimeDay": "61.07%",
     "uptimeWeek": "66.23%",
     "uptimeMonth": "92.23%",
     "uptimeYear": "99.12%",
@@ -84,12 +84,12 @@
     "url": "https://searxng.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.unforest.net.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "53.39%",
-    "uptimeWeek": "64.54%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "53.81%",
+    "uptimeWeek": "64.75%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "99.08%",
     "time": 195,
     "timeDay": 230,
     "timeWeek": 230,
@@ -102,7 +102,7 @@
       "2023-10-31": 608,
       "2023-10-30": 626,
       "2023-10-29": 608,
-      "2023-10-28": 528
+      "2023-10-28": 506
     }
   },
   {
@@ -140,8 +140,8 @@
     "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "64.77%",
-    "uptimeWeek": "63.24%",
-    "uptimeMonth": "91.54%",
+    "uptimeWeek": "63.18%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "99.04%",
     "time": 196,
     "timeDay": 202,
@@ -149,7 +149,7 @@
     "timeMonth": 206,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-11-03": 19,
+      "2023-11-03": 26,
       "2023-11-02": 594,
       "2023-11-01": 624,
       "2023-10-31": 633,
@@ -166,9 +166,9 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "60.47%",
-    "uptimeWeek": "65.02%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "61.40%",
+    "uptimeWeek": "64.75%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.08%",
     "time": 192,
     "timeDay": 215,
@@ -176,13 +176,13 @@
     "timeMonth": 200,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-11-03": 157,
+      "2023-11-03": 144,
       "2023-11-02": 576,
       "2023-11-01": 674,
       "2023-10-31": 636,
       "2023-10-30": 527,
       "2023-10-29": 588,
-      "2023-10-28": 373
+      "2023-10-28": 413
     }
   }
 ]
