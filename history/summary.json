@@ -4,12 +4,12 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "55.07%",
-    "uptimeWeek": "61.36%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "55.41%",
+    "uptimeWeek": "61.54%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "99.00%",
     "time": 274,
     "timeDay": 221,
     "timeWeek": 269,
@@ -22,7 +22,7 @@
       "2023-11-01": 594,
       "2023-10-31": 633,
       "2023-10-30": 718,
-      "2023-10-29": 512
+      "2023-10-29": 493
     }
   },
   {
@@ -30,14 +30,14 @@
     "url": "https://piped.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/piped.unforest.net.ico",
     "slug": "piped",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "56.61%",
-    "uptimeWeek": "64.90%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "56.65%",
+    "uptimeWeek": "65.13%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "99.09%",
     "time": 228,
-    "timeDay": 180,
+    "timeDay": 179,
     "timeWeek": 262,
     "timeMonth": 239,
     "timeYear": 228,
@@ -49,7 +49,7 @@
       "2023-10-31": 439,
       "2023-10-30": 538,
       "2023-10-29": 596,
-      "2023-10-28": 72
+      "2023-10-28": 48
     }
   },
   {
@@ -57,12 +57,12 @@
     "url": "https://pipedapi.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "55.75%",
-    "uptimeWeek": "64.91%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "56.09%",
+    "uptimeWeek": "65.08%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "99.09%",
     "time": 219,
     "timeDay": 246,
     "timeWeek": 236,
@@ -75,7 +75,7 @@
       "2023-11-01": 598,
       "2023-10-31": 681,
       "2023-10-30": 686,
-      "2023-10-29": 151
+      "2023-10-29": 133
     }
   },
   {
@@ -86,8 +86,8 @@
     "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "61.48%",
-    "uptimeWeek": "67.49%",
-    "uptimeMonth": "92.52%",
+    "uptimeWeek": "67.43%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.15%",
     "time": 195,
     "timeDay": 186,
@@ -95,7 +95,7 @@
     "timeMonth": 201,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-11-04": 65,
+      "2023-11-04": 71,
       "2023-11-03": 680,
       "2023-11-02": 639,
       "2023-11-01": 398,
@@ -111,13 +111,13 @@
     "slug": "libreddit",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "53.42%",
+    "uptimeDay": "53.82%",
     "uptimeWeek": "64.60%",
     "uptimeMonth": "91.85%",
     "uptimeYear": "99.08%",
     "time": 262,
     "timeDay": 176,
-    "timeWeek": 215,
+    "timeWeek": 216,
     "timeMonth": 196,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -137,9 +137,9 @@
     "slug": "nitter",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "59.62%",
-    "uptimeWeek": "63.78%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "60.08%",
+    "uptimeWeek": "63.43%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.05%",
     "time": 196,
     "timeDay": 200,
@@ -147,13 +147,14 @@
     "timeMonth": 205,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-11-04": 148,
+      "2023-11-04": 142,
       "2023-11-03": 496,
       "2023-11-02": 594,
       "2023-11-01": 624,
       "2023-10-31": 633,
       "2023-10-30": 595,
-      "2023-10-29": 567
+      "2023-10-29": 597,
+      "2023-10-28": 11
     }
   },
   {
@@ -163,9 +164,9 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "58.96%",
-    "uptimeWeek": "64.92%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "59.79%",
+    "uptimeWeek": "64.74%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.08%",
     "time": 192,
     "timeDay": 194,
@@ -173,13 +174,13 @@
     "timeMonth": 199,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-11-04": 80,
+      "2023-11-04": 74,
       "2023-11-03": 691,
       "2023-11-02": 576,
       "2023-11-01": 674,
       "2023-10-31": 636,
       "2023-10-30": 527,
-      "2023-10-29": 355
+      "2023-10-29": 379
     }
   }
 ]
