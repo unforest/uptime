@@ -1,7 +1,7 @@
 url: https://pipedapi.unforest.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-08T20:27:55.945Z
+status: up
+code: 200
+responseTime: 54
+lastUpdated: 2023-11-08T20:34:45.167Z
 startTime: 2023-02-09T00:23:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
