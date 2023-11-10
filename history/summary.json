@@ -4,12 +4,12 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "68.37%",
-    "uptimeWeek": "65.46%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "68.64%",
+    "uptimeWeek": "65.70%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "99.13%",
     "time": 279,
     "timeDay": 245,
     "timeWeek": 294,
@@ -22,7 +22,7 @@
       "2023-11-07": 616,
       "2023-11-06": 750,
       "2023-11-05": 466,
-      "2023-11-04": 454
+      "2023-11-04": 430
     }
   },
   {
@@ -37,7 +37,7 @@
     "uptimeMonth": "92.08%",
     "uptimeYear": "99.12%",
     "time": 252,
-    "timeDay": 417,
+    "timeDay": 419,
     "timeWeek": 324,
     "timeMonth": 263,
     "timeYear": 252,
@@ -55,15 +55,15 @@
     "url": "https://pipedapi.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "71.33%",
-    "uptimeWeek": "61.88%",
-    "uptimeMonth": "91.23%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "71.71%",
+    "uptimeWeek": "62.56%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "99.05%",
     "time": 230,
     "timeDay": 246,
-    "timeWeek": 274,
+    "timeWeek": 275,
     "timeMonth": 229,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
       "2023-11-06": 653,
       "2023-11-05": 698,
       "2023-11-04": 535,
-      "2023-11-03": 116
+      "2023-11-03": 48
     }
   },
   {
@@ -82,11 +82,11 @@
     "url": "https://searxng.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.unforest.net.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "63.74%",
-    "uptimeWeek": "64.59%",
-    "uptimeMonth": "91.85%",
+    "uptimeDay": "63.70%",
+    "uptimeWeek": "64.77%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.10%",
     "time": 204,
     "timeDay": 350,
@@ -94,13 +94,13 @@
     "timeMonth": 209,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-11-10": 347,
+      "2023-11-10": 348,
       "2023-11-09": 680,
       "2023-11-08": 509,
       "2023-11-07": 603,
       "2023-11-06": 776,
       "2023-11-05": 557,
-      "2023-11-04": 101
+      "2023-11-04": 83
     }
   },
   {
@@ -110,9 +110,9 @@
     "slug": "libreddit",
     "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "62.14%",
-    "uptimeWeek": "63.19%",
-    "uptimeMonth": "91.53%",
+    "uptimeDay": "61.73%",
+    "uptimeWeek": "63.14%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.06%",
     "time": 261,
     "timeDay": 219,
@@ -120,7 +120,7 @@
     "timeMonth": 210,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-11-10": 327,
+      "2023-11-10": 332,
       "2023-11-09": 551,
       "2023-11-08": 553,
       "2023-11-07": 459,
@@ -141,7 +141,7 @@
     "uptimeMonth": "91.41%",
     "uptimeYear": "99.05%",
     "time": 195,
-    "timeDay": 199,
+    "timeDay": 196,
     "timeWeek": 191,
     "timeMonth": 202,
     "timeYear": 195,
@@ -162,9 +162,9 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "43.82%",
-    "uptimeWeek": "58.88%",
-    "uptimeMonth": "90.54%",
+    "uptimeDay": "45.05%",
+    "uptimeWeek": "58.83%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "98.95%",
     "time": 200,
     "timeDay": 222,
@@ -172,13 +172,13 @@
     "timeMonth": 207,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-11-10": 510,
+      "2023-11-10": 498,
       "2023-11-09": 771,
       "2023-11-08": 627,
       "2023-11-07": 691,
       "2023-11-06": 734,
       "2023-11-05": 636,
-      "2023-11-04": 180
+      "2023-11-04": 197
     }
   }
 ]
