@@ -4,11 +4,11 @@
     "url": "https://www.unforest.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "60.28%",
-    "uptimeWeek": "63.51%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "60.86%",
+    "uptimeWeek": "63.67%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.09%",
     "time": 287,
     "timeDay": 231,
@@ -22,7 +22,7 @@
       "2023-11-13": 491,
       "2023-11-12": 617,
       "2023-11-11": 402,
-      "2023-11-10": 392
+      "2023-11-10": 376
     }
   },
   {
@@ -32,9 +32,9 @@
     "slug": "piped",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "61.13%",
-    "uptimeWeek": "67.12%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "62.43%",
+    "uptimeWeek": "67.00%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.18%",
     "time": 258,
     "timeDay": 203,
@@ -42,13 +42,13 @@
     "timeMonth": 269,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-11-16": 500,
+      "2023-11-16": 488,
       "2023-11-15": 661,
       "2023-11-14": 662,
       "2023-11-13": 421,
       "2023-11-12": 522,
       "2023-11-11": 410,
-      "2023-11-10": 139
+      "2023-11-10": 163
     }
   },
   {
@@ -58,7 +58,7 @@
     "slug": "piped-api",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "64.83%",
+    "uptimeDay": "65.28%",
     "uptimeWeek": "67.62%",
     "uptimeMonth": "92.55%",
     "uptimeYear": "99.19%",
@@ -85,7 +85,7 @@
     "status": "up",
     "uptime": "99.12%",
     "uptimeDay": "79.12%",
-    "uptimeWeek": "65.30%",
+    "uptimeWeek": "65.39%",
     "uptimeMonth": "91.89%",
     "uptimeYear": "99.12%",
     "time": 228,
@@ -111,22 +111,22 @@
     "slug": "libreddit",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "45.11%",
-    "uptimeWeek": "64.40%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "46.11%",
+    "uptimeWeek": "64.22%",
+    "uptimeMonth": "91.77%",
     "uptimeYear": "99.11%",
     "time": 251,
-    "timeDay": 156,
+    "timeDay": 160,
     "timeWeek": 206,
     "timeMonth": 210,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-11-16": 729,
+      "2023-11-16": 717,
       "2023-11-15": 719,
       "2023-11-14": 628,
       "2023-11-13": 565,
       "2023-11-12": 600,
-      "2023-11-11": 347
+      "2023-11-11": 377
     }
   },
   {
@@ -135,23 +135,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unforest.net.ico",
     "slug": "nitter",
     "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "55.59%",
-    "uptimeWeek": "65.59%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.13%",
+    "uptimeDay": "56.45%",
+    "uptimeWeek": "65.05%",
+    "uptimeMonth": "91.96%",
+    "uptimeYear": "99.13%",
     "time": 196,
     "timeDay": 190,
     "timeWeek": 203,
     "timeMonth": 197,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-11-16": 602,
+      "2023-11-16": 590,
       "2023-11-15": 569,
       "2023-11-14": 608,
       "2023-11-13": 594,
       "2023-11-12": 700,
-      "2023-11-11": 398
+      "2023-11-11": 465
     }
   },
   {
@@ -161,7 +161,7 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "59.58%",
+    "uptimeDay": "60.21%",
     "uptimeWeek": "66.07%",
     "uptimeMonth": "92.19%",
     "uptimeYear": "99.15%",
