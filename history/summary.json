@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unforest.net.ico",
     "slug": "unforest",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.17%",
-    "time": 529,
+    "uptimeYear": "0.01%",
+    "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 722,
+    "timeYear": 989,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -379,8 +380,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 787
+      "2023-11-25": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped.unforest.net.ico",
     "slug": "piped",
     "status": "down",
-    "uptime": "43.93%",
+    "uptime": "43.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.16%",
-    "time": 310,
+    "uptimeYear": "0.00%",
+    "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 388,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -763,8 +764,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 791
+      "2023-11-25": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.unforest.net.ico",
     "slug": "piped-api",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.13%",
-    "time": 341,
+    "uptimeYear": "0.00%",
+    "time": 347,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 413,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1147,8 +1148,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 771
+      "2023-11-25": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.unforest.net.ico",
     "slug": "sear-xng",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.18%",
-    "time": 296,
+    "uptimeYear": "0.01%",
+    "time": 302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 294,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1531,8 +1532,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 825
+      "2023-11-25": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.unforest.net.ico",
     "slug": "libreddit",
     "status": "down",
-    "uptime": "43.93%",
+    "uptime": "43.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.18%",
-    "time": 364,
+    "uptimeYear": "0.00%",
+    "time": 390,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 481,
+    "timeYear": 616,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -1915,8 +1916,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 840
+      "2023-11-25": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.unforest.net.ico",
     "slug": "nitter",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.16%",
-    "time": 370,
+    "uptimeYear": "0.00%",
+    "time": 412,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 527,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -2299,8 +2300,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 808
+      "2023-11-25": 1440
     }
   },
   {
@@ -2309,18 +2309,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rimgo.unforest.net.ico",
     "slug": "rimgo",
     "status": "down",
-    "uptime": "43.92%",
+    "uptime": "43.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.17%",
-    "time": 319,
+    "uptimeYear": "0.01%",
+    "time": 269,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 320,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-11-22": 41,
+      "2024-11-23": 39,
+      "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
@@ -2683,8 +2684,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 866
+      "2023-11-25": 1440
     }
   }
 ]
